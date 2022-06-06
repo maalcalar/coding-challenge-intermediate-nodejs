@@ -1,4 +1,4 @@
-# BASIC NODEJS CHALLENGES
+# INTERMEDIATE NODEJS CHALLENGES
 
 1. Install VsCode "prettier" Plugin 
 2. Install the NodeJS Project using the package.json 
